@@ -1,0 +1,65 @@
+{
+  "bookmarkCollection": [
+    {
+      "id": "01",
+      "title": "HTML5",
+      "Bookmark": [
+        {
+          "id": "03",
+          "title": "W3Schools HTML5",
+          "links": "https://www.w3schools.com/"
+        },
+        {
+          "id": "04",
+          "title": "Tutorial Points",
+          "links": "https://www.tutorialspoint.com/html5/index.htm"
+        },
+        {
+          "id": "05",
+          "title": "HTML 5 Tutorials",
+          "links": "https://www.html-5-tutorial.com/"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS",
+      "Bookmark": [
+        {
+          "id": "06",
+          "title": "W3Schools CSS",
+          "links": "https://www.w3schools.com/css/"
+        },
+        {
+          "id": "07",
+          "title": "CSS Tutorials",
+          "links": "https://www.csstutorial.net/"
+        },
+        {
+          "id": "08",
+          "title": "CSS Tricks",
+          "links": "https://css-tricks.com/"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "JAVASCRIPT",
+      "Bookmark": [
+        {
+          "id": "09",
+          "title": "W3Schools JS",
+          "links": "https://www.w3schools.com/js/"
+        },
+        {"id": "10",
+          "title": "JavaScript Info",
+          "links": "https://javascript.info/"
+        },
+        {"id": "11",
+          "title": "JavaScript Tutorials",
+          "links": "http://htmldog.com/guides/javascript/"
+        }
+      ]
+    }
+  ]
+}
